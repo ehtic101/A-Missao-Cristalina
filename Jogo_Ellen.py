@@ -325,7 +325,7 @@ def draw():
         screen.draw.text("A Missão Cristalina", 
                         center=(WIDTH/2, 100), 
                         fontsize=48, 
-                        color=(0, 0, 0))
+                        color=(255, 0, 0))
         
         start_button.draw()
         music_button.draw()
